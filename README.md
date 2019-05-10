@@ -10,6 +10,7 @@
 * [Javascript原型理解](https://github.com/antbaobao/AntBlog/issues/14)
 * [call,apply,bind的理解及应用](https://github.com/antbaobao/AntBlog/issues/15)
 * [函数柯里化](https://github.com/antbaobao/AntBlog/issues/16)
+* [arguments 参数理解](https://github.com/antbaobao/AntBlog/issues/17)
 ### 其他
 * [浏览器的回流(重排)和重绘](https://github.com/antbaobao/AntBlog/issues/9)
 ## 前端进阶
