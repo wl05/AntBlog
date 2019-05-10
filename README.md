@@ -6,6 +6,7 @@
 * [BEM命名约定](https://github.com/antbaobao/AntBlog/issues/10)
 * [CSS动画简介](https://github.com/antbaobao/AntBlog/issues/12)
 ### javascript
+* [JavaScript Event Loop(浏览器）](https://github.com/antbaobao/AntBlog/issues/13)
 ### 其他
 * [浏览器的回流(重排)和重绘](https://github.com/antbaobao/AntBlog/issues/9)
 ## 前端进阶
