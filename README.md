@@ -4,6 +4,7 @@
 * [CSS盒子模型和定位](https://github.com/antbaobao/AntBlog/issues/7)
 ### javascript
 ### 其他
+* [浏览器的回流(重排)和重绘](https://github.com/antbaobao/AntBlog/issues/9)
 ## 前端进阶
 * [深入理解浏览器的缓存机制](https://github.com/antbaobao/AntBlog/issues/1)
 * [浏览器的渲染流程](https://github.com/antbaobao/AntBlog/issues/8)
