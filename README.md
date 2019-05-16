@@ -24,6 +24,7 @@
 * [HTTPS原理](https://github.com/antbaobao/AntBlog/issues/5)
 ### 设计模式
 * [javascript 设计模式(简单工厂模式)](https://github.com/antbaobao/AntBlog/issues/21)
+* [javascript 设计模式(工厂方法模式)](https://github.com/antbaobao/AntBlog/issues/22)
 ## 服务器
 * [使用docker部署网站](https://github.com/antbaobao/AntBlog/issues/20)
 ## 数据结构与算法
