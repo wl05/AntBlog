@@ -26,6 +26,7 @@
 * [javascript 设计模式(简单工厂模式)](https://github.com/antbaobao/AntBlog/issues/21)
 * [javascript 设计模式(工厂方法模式)](https://github.com/antbaobao/AntBlog/issues/22)
 * [javascript 设计模式(抽像工厂模式)](https://github.com/antbaobao/AntBlog/issues/23)
+* [javascript 设计模式(观察者模式)](https://github.com/antbaobao/AntBlog/issues/24)
 ## 服务器
 * [使用docker部署网站](https://github.com/antbaobao/AntBlog/issues/20)
 ## 数据结构与算法
