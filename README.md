@@ -36,6 +36,7 @@
 * [使用docker部署网站](https://github.com/antbaobao/AntBlog/issues/20)
 ## 数据结构与算法
 * [常见排序算法的javascript实现](https://github.com/antbaobao/AntBlog/issues/6)
+* [二叉搜索树](https://github.com/antbaobao/AntBlog/issues/30)
 ## 数据库
 ### mongodb
 
