@@ -33,6 +33,7 @@
 * [javascript 设计模式(观察者模式)](https://github.com/antbaobao/AntBlog/issues/24)
 * [javascript 设计模式(建造者模式)](https://github.com/antbaobao/AntBlog/issues/28)
 * [javascript 设计模式(原型模式)](https://github.com/antbaobao/AntBlog/issues/31)
+* [javascript 设计模式(单例模式)](https://github.com/antbaobao/AntBlog/issues/32)
 ## 服务器
 * [使用docker部署网站](https://github.com/antbaobao/AntBlog/issues/20)
 ## 数据结构与算法
