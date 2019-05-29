@@ -27,12 +27,15 @@
 * [HTTPS原理](https://github.com/antbaobao/AntBlog/issues/5)
 * [手写Promise(待完成)](https://github.com/antbaobao/AntBlog/issues/29)
 ### 设计模式
+***创建型设计模式***
 * [javascript 设计模式(简单工厂模式)](https://github.com/antbaobao/AntBlog/issues/21)
 * [javascript 设计模式(工厂方法模式)](https://github.com/antbaobao/AntBlog/issues/22)
 * [javascript 设计模式(抽像工厂模式)](https://github.com/antbaobao/AntBlog/issues/23)
 * [javascript 设计模式(建造者模式)](https://github.com/antbaobao/AntBlog/issues/28)
 * [javascript 设计模式(原型模式)](https://github.com/antbaobao/AntBlog/issues/31)
 * [javascript 设计模式(单例模式)](https://github.com/antbaobao/AntBlog/issues/32)
+***结构型设计模式***
+***行为型设计模式***
 * [javascript 设计模式(观察者模式)](https://github.com/antbaobao/AntBlog/issues/24)
 ## 服务器
 * [使用docker部署网站](https://github.com/antbaobao/AntBlog/issues/20)
