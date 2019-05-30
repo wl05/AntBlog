@@ -37,6 +37,7 @@
 * [javascript 设计模式(适配器模式)](https://github.com/antbaobao/AntBlog/issues/34)
 * [javascript 设计模式(代理模式)](#)  => 待完成 
 * [javascript 设计模式(装饰者模式)](https://github.com/antbaobao/AntBlog/issues/35)
+* [javascript 设计模式(桥接模式)](https://github.com/antbaobao/AntBlog/issues/36)
 * [javascript 设计模式(观察者模式)](https://github.com/antbaobao/AntBlog/issues/24)
 ## 服务器
 * [使用docker部署网站](https://github.com/antbaobao/AntBlog/issues/20)
