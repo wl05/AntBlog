@@ -35,11 +35,11 @@
 * [javascript 设计模式(单例模式)](https://github.com/antbaobao/AntBlog/issues/32)
 * [javascript 设计模式(外观模式)](https://github.com/antbaobao/AntBlog/issues/33)
 * [javascript 设计模式(适配器模式)](https://github.com/antbaobao/AntBlog/issues/34)
-* [javascript 设计模式(代理模式)](#)  => 待完成 
+* [javascript 设计模式(代理模式)](#)  => 待完成
 * [javascript 设计模式(装饰者模式)](https://github.com/antbaobao/AntBlog/issues/35)
 * [javascript 设计模式(桥接模式)](https://github.com/antbaobao/AntBlog/issues/36)
-* [javascript 设计模式(组合模式)](#)  => 待完成 
-* [javascript 设计模式(享元模式)](#)  => 待完成 
+* [javascript 设计模式(组合模式)](#)  => 待完成
+* [javascript 设计模式(享元模式)](#)  => 待完成
 * [javascript 设计模式(模版方法模式)](https://github.com/antbaobao/AntBlog/issues/40)
 * [javascript 设计模式(观察者模式)](https://github.com/antbaobao/AntBlog/issues/24)
 * [javascript 设计模式(状态模式)](https://github.com/antbaobao/AntBlog/issues/41)
@@ -51,6 +51,7 @@
 ## node
 * [node垃圾回收](https://github.com/antbaobao/AntBlog/issues/37)
 * [node 发送邮件](https://github.com/antbaobao/AntBlog/issues/43)
+* [node生成图形码](node/node生成图形码.md)
 ## golang(相见恨晚)
 * [初识go 并发编程](https://github.com/antbaobao/AntBlog/issues/38)
 * [go websocket编程](https://github.com/antbaobao/AntBlog/issues/39)
