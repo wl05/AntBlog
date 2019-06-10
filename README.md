@@ -1,4 +1,5 @@
-# AntBlog  [汪乐的个人网站](https://github.com/antbaobao/AntVueBlogFront)
+# AntBlog  [汪乐的个人网站](https://github.com/antbaobao/AntVueBlogFront) 
+> 需要整理有道云笔记到AntBlog。发表方式还是采用提issue方式，方便评论，文章里面的静态资源例如图片统一使用github上的链接，方便发表到我的个人网站。待整理
 ## 前端基础
 ### css
 * [CSS盒子模型和定位](https://github.com/antbaobao/AntBlog/issues/7)
@@ -51,7 +52,7 @@
 ## node
 * [node垃圾回收](https://github.com/antbaobao/AntBlog/issues/37)
 * [node 发送邮件](https://github.com/antbaobao/AntBlog/issues/43)
-* [node生成图形码](node/node生成图形码.md)
+* [node生成图形验证码](https://github.com/antbaobao/AntBlog/issues/44)
 ## golang(相见恨晚)
 * [初识go 并发编程](https://github.com/antbaobao/AntBlog/issues/38)
 * [go websocket编程](https://github.com/antbaobao/AntBlog/issues/39)
