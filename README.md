@@ -44,6 +44,8 @@
 * [javascript 设计模式(模版方法模式)](https://github.com/antbaobao/AntBlog/issues/40)
 * [javascript 设计模式(观察者模式)](https://github.com/antbaobao/AntBlog/issues/24)
 * [javascript 设计模式(状态模式)](https://github.com/antbaobao/AntBlog/issues/41)
+* [javascript 设计模式(策略模式)](https://github.com/antbaobao/AntBlog/issues/45)
+* [javascript 设计模式(职责链模式)](#) => 待完成
 ## 服务器
 * [使用docker部署网站](https://github.com/antbaobao/AntBlog/issues/20)
 ## 数据结构与算法
