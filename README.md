@@ -58,6 +58,7 @@
 ## golang(相见恨晚)
 * [初识go 并发编程](https://github.com/antbaobao/AntBlog/issues/38)
 * [go websocket编程](https://github.com/antbaobao/AntBlog/issues/39)
+* [go RPC 编程](https://github.com/antbaobao/AntBlog/issues/46)
 ## 数据库
 ### redis
 * [使用docker安装Redis](https://github.com/antbaobao/AntBlog/issues/42)
