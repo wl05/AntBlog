@@ -65,6 +65,8 @@
 ## 数据库
 ### redis
 * [使用docker安装Redis](https://github.com/antbaobao/AntBlog/issues/42)
+### mysql
+* [mysql 安装教程](https://github.com/antbaobao/AntBlog/issues/50)
 ## 版本控制
 ### git
 * [git 切换远程分支](https://github.com/antbaobao/AntBlog/issues/47)
