@@ -56,6 +56,7 @@
 * [栈](https://github.com/antbaobao/AntBlog/issues/52)
 * [队列](https://github.com/antbaobao/AntBlog/issues/53)
 * [优先队列 ](https://github.com/antbaobao/AntBlog/issues/54)
+* [循环队列](https://github.com/antbaobao/AntBlog/issues/55)
 * [常见排序算法的javascript实现](https://github.com/antbaobao/AntBlog/issues/6)
 * [二叉搜索树](https://github.com/antbaobao/AntBlog/issues/30)
 ## node
