@@ -66,6 +66,7 @@
 * [插入排序](https://github.com/antbaobao/AntBlog/issues/60)
 * [归并排序](https://github.com/antbaobao/AntBlog/issues/61)
 * [快速排序](https://github.com/antbaobao/AntBlog/issues/62)
+* [二分搜索](https://github.com/antbaobao/AntBlog/issues/63)
 ## node
 * [node垃圾回收](https://github.com/antbaobao/AntBlog/issues/37)
 * [node 发送邮件](https://github.com/antbaobao/AntBlog/issues/43)
