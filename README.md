@@ -67,6 +67,7 @@
 * [归并排序](https://github.com/antbaobao/AntBlog/issues/61)
 * [快速排序](https://github.com/antbaobao/AntBlog/issues/62)
 * [计数排序](https://github.com/antbaobao/AntBlog/issues/66)
+* [桶排序](https://github.com/antbaobao/AntBlog/issues/67)
 * [二分搜索](https://github.com/antbaobao/AntBlog/issues/63)
 * [内插搜索](https://github.com/antbaobao/AntBlog/issues/64)
 * [Fisher-Yates 随机算法](https://github.com/antbaobao/AntBlog/issues/65)
