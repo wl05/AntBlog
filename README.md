@@ -60,6 +60,8 @@
 * [二叉搜索树](https://github.com/antbaobao/AntBlog/issues/57)
 * [常见排序算法的javascript实现](https://github.com/antbaobao/AntBlog/issues/6)
 * [二叉搜索树](https://github.com/antbaobao/AntBlog/issues/30)
+### 二叉堆和堆排序
+* [二叉堆数据结构](https://github.com/antbaobao/AntBlog/issues/68)
 ### 排序和搜索算法
 * [冒泡排序](https://github.com/antbaobao/AntBlog/issues/58)
 * [选择排序](https://github.com/antbaobao/AntBlog/issues/59)
