@@ -57,13 +57,27 @@
 * [队列](https://github.com/antbaobao/AntBlog/issues/53)
 * [优先队列 ](https://github.com/antbaobao/AntBlog/issues/54)
 * [循环队列](https://github.com/antbaobao/AntBlog/issues/55)
+* [二叉搜索树](https://github.com/antbaobao/AntBlog/issues/57)
 * [常见排序算法的javascript实现](https://github.com/antbaobao/AntBlog/issues/6)
 * [二叉搜索树](https://github.com/antbaobao/AntBlog/issues/30)
+### 二叉堆和堆排序
+* [二叉堆数据结构](https://github.com/antbaobao/AntBlog/issues/68)
+### 排序和搜索算法
+* [冒泡排序](https://github.com/antbaobao/AntBlog/issues/58)
+* [选择排序](https://github.com/antbaobao/AntBlog/issues/59)
+* [插入排序](https://github.com/antbaobao/AntBlog/issues/60)
+* [归并排序](https://github.com/antbaobao/AntBlog/issues/61)
+* [快速排序](https://github.com/antbaobao/AntBlog/issues/62)
+* [计数排序](https://github.com/antbaobao/AntBlog/issues/66)
+* [桶排序](https://github.com/antbaobao/AntBlog/issues/67)
+* [二分搜索](https://github.com/antbaobao/AntBlog/issues/63)
+* [内插搜索](https://github.com/antbaobao/AntBlog/issues/64)
+* [Fisher-Yates 随机算法](https://github.com/antbaobao/AntBlog/issues/65)
 ## node
 * [node垃圾回收](https://github.com/antbaobao/AntBlog/issues/37)
 * [node 发送邮件](https://github.com/antbaobao/AntBlog/issues/43)
 * [node生成图形验证码](https://github.com/antbaobao/AntBlog/issues/44)
-## golang(相见恨晚)
+## golang
 * [初识go 并发编程](https://github.com/antbaobao/AntBlog/issues/38)
 * [go websocket编程](https://github.com/antbaobao/AntBlog/issues/39)
 * [go RPC 编程](https://github.com/antbaobao/AntBlog/issues/46)
@@ -75,4 +89,6 @@
 ## 版本控制
 ### git
 * [git 切换远程分支](https://github.com/antbaobao/AntBlog/issues/47)
+* [git 命令总结](https://github.com/antbaobao/AntBlog/issues/56)
+## 正则表达式
 
