@@ -2,7 +2,7 @@
 > 需要整理有道云笔记到AntBlog。发表方式还是采用提issue方式，方便评论，文章里面的静态资源例如图片统一使用github上的链接，方便发表到我的个人网站。待整理
 ## 前端基础
 ### css
-* 1. [CSS盒子模型](https://github.com/antbaobao/AntBlog/issues/7)
+1. [CSS盒子模型](https://github.com/antbaobao/AntBlog/issues/7)
 * [block，inline和inline-block概念和区别](https://github.com/antbaobao/AntBlog/issues/48)
 * [清除浮动](https://github.com/antbaobao/AntBlog/issues/11)
 * [BEM命名约定](https://github.com/antbaobao/AntBlog/issues/10)
