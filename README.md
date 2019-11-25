@@ -3,11 +3,12 @@
 ## 前端基础
 ### css
 1. [CSS盒子模型](https://github.com/antbaobao/AntBlog/issues/7)
+2. [BFC 原理](https://github.com/antbaobao/AntBlog/issues/25)
 * [block，inline和inline-block概念和区别](https://github.com/antbaobao/AntBlog/issues/48)
 * [清除浮动](https://github.com/antbaobao/AntBlog/issues/11)
 * [BEM命名约定](https://github.com/antbaobao/AntBlog/issues/10)
 * [CSS动画简介](https://github.com/antbaobao/AntBlog/issues/12)
-* [BFC 原理](https://github.com/antbaobao/AntBlog/issues/25)
+
 * [CSS实现两列布局(左边定宽右边自适应)](https://github.com/antbaobao/AntBlog/issues/26)
 * [CSS实现三列布局(两边固定中间自适应)](https://github.com/antbaobao/AntBlog/issues/27)
 ### javascript
