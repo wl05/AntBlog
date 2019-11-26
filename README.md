@@ -1,5 +1,5 @@
 # AntBlog  [汪乐的个人网站](https://github.com/antbaobao/AntVueBlogFront) 
-> 需要整理有道云笔记到AntBlog。发表方式还是采用提issue方式，方便评论，文章里面的静态资源例如图片统一使用github上的链接，方便发表到我的个人网站。待整理
+> 对知识点进行归类总结，形成一个详细的大纲。有些知识点没有做自己的总结，但是有放参考链接，形成一个总结。
 ## 前端基础
 ### css
 1. [CSS盒子模型](https://github.com/antbaobao/AntBlog/issues/7)
