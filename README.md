@@ -6,6 +6,7 @@
 2. [BFC 原理](https://github.com/antbaobao/AntBlog/issues/25)
 3. [层叠顺序](https://github.com/antbaobao/AntBlog/issues/70)
 4. [居中布局](https://github.com/antbaobao/AntBlog/issues/71)
+5. [css 选择器与优先级](https://github.com/antbaobao/AntBlog/issues/72)
 * [block，inline和inline-block概念和区别](https://github.com/antbaobao/AntBlog/issues/48)
 * [清除浮动](https://github.com/antbaobao/AntBlog/issues/11)
 * [BEM命名约定](https://github.com/antbaobao/AntBlog/issues/10)
