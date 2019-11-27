@@ -11,7 +11,7 @@
 7. [css 中link 与@import的区别](https://github.com/antbaobao/AntBlog/issues/73)
 8. [CSS动画简介](https://github.com/antbaobao/AntBlog/issues/12)
 9. [block，inline和inline-block概念和区别](https://github.com/antbaobao/AntBlog/issues/48)
-* [BEM命名约定](https://github.com/antbaobao/AntBlog/issues/10)
+10. [BEM命名约定](https://github.com/antbaobao/AntBlog/issues/10)
 * [CSS实现两列布局(左边定宽右边自适应)](https://github.com/antbaobao/AntBlog/issues/26)
 * [CSS实现三列布局(两边固定中间自适应)](https://github.com/antbaobao/AntBlog/issues/27)
 ### javascript
