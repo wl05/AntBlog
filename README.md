@@ -13,6 +13,7 @@
 9. [block，inline和inline-block概念和区别](https://github.com/antbaobao/AntBlog/issues/48)
 10. [BEM命名约定](https://github.com/antbaobao/AntBlog/issues/10)
 11. [position 定位](https://github.com/antbaobao/AntBlog/issues/74)
+12. [flex布局](https://github.com/antbaobao/AntBlog/issues/75)
 * [CSS实现两列布局(左边定宽右边自适应)](https://github.com/antbaobao/AntBlog/issues/26)
 * [CSS实现三列布局(两边固定中间自适应)](https://github.com/antbaobao/AntBlog/issues/27)
 ### javascript
