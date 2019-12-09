@@ -17,8 +17,8 @@
 * [CSS实现两列布局(左边定宽右边自适应)](https://github.com/antbaobao/AntBlog/issues/26)
 * [CSS实现三列布局(两边固定中间自适应)](https://github.com/antbaobao/AntBlog/issues/27)
 ### javascript
+1. [Javascript原型理解](https://github.com/antbaobao/AntBlog/issues/14)
 * [JavaScript Event Loop(浏览器）](https://github.com/antbaobao/AntBlog/issues/13)
-* [Javascript原型理解](https://github.com/antbaobao/AntBlog/issues/14)
 * [call,apply,bind的理解及应用](https://github.com/antbaobao/AntBlog/issues/15)
 * [函数柯里化](https://github.com/antbaobao/AntBlog/issues/16)
 * [arguments 参数理解](https://github.com/antbaobao/AntBlog/issues/17)
