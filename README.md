@@ -31,6 +31,7 @@
 ### 其他
 * [浏览器的回流(重排)和重绘](https://github.com/antbaobao/AntBlog/issues/9)
 ## 前端进阶
+* [DNS 预解析](https://github.com/antbaobao/AntBlog/issues/81)
 * [深入理解浏览器的缓存机制](https://github.com/antbaobao/AntBlog/issues/1)
 * [浏览器的渲染流程](https://github.com/antbaobao/AntBlog/issues/8)
 * [常见web攻击手段极其防御方式](https://github.com/antbaobao/AntBlog/issues/2)
