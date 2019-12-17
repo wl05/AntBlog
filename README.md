@@ -34,7 +34,7 @@
 * [options 请求的原因以及避免方法](https://github.com/antbaobao/AntBlog/issues/84)
 * [cors 跨域](https://github.com/antbaobao/AntBlog/issues/83)
 * [DNS 预解析](https://github.com/antbaobao/AntBlog/issues/81)
-* [深入理解浏览器的缓存机制](https://github.com/antbaobao/AntBlog/issues/1)
+* [http缓存](https://github.com/antbaobao/AntBlog/issues/1)
 * [浏览器的渲染流程](https://github.com/antbaobao/AntBlog/issues/8)
 * [XSS 攻击](https://github.com/antbaobao/AntBlog/issues/82)
 * [常见web攻击手段极其防御方式](https://github.com/antbaobao/AntBlog/issues/2)
