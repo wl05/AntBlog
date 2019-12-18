@@ -47,6 +47,7 @@
 * [vue 源码解析](https://github.com/antbaobao/AntBlog/issues/85)
 * [webpack vue-cli3 DllPlugin 提取公用库加快打包的速度](https://github.com/antbaobao/AntBlog/issues/76)
 * [vue 做权限控制](https://github.com/antbaobao/AntBlog/issues/86)
+* [chrome devtool 使用](https://github.com/antbaobao/AntBlog/issues/87)
 ### 设计模式
 * [javascript 设计模式(简单工厂模式)](https://github.com/antbaobao/AntBlog/issues/21)
 * [javascript 设计模式(工厂方法模式)](https://github.com/antbaobao/AntBlog/issues/22)
