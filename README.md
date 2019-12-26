@@ -50,6 +50,7 @@
 * [chrome devtool 使用](https://github.com/antbaobao/AntBlog/issues/87)
 * [手写代码-实现防抖函数（debounce）](https://github.com/antbaobao/AntBlog/issues/88)
 * [手写代码-实现节流函数（throttle）](https://github.com/antbaobao/AntBlog/issues/89)
+* [手写代码-用 Throttle 来优化 Debounce](https://github.com/antbaobao/AntBlog/issues/90)
 ### 设计模式
 * [javascript 设计模式(简单工厂模式)](https://github.com/antbaobao/AntBlog/issues/21)
 * [javascript 设计模式(工厂方法模式)](https://github.com/antbaobao/AntBlog/issues/22)
