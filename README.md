@@ -54,6 +54,7 @@
 * [手写代码-用 Throttle 来优化 Debounce](https://github.com/antbaobao/AntBlog/issues/90)
 * [手写代码-深拷贝（deepclone）](https://github.com/antbaobao/AntBlog/issues/91)
 * [手写代码-实现Event(event bus)](https://github.com/antbaobao/AntBlog/issues/93)
+* [书写代码-实现instanceOf](https://github.com/antbaobao/AntBlog/issues/94)
 ### 设计模式
 * [javascript 设计模式(简单工厂模式)](https://github.com/antbaobao/AntBlog/issues/21)
 * [javascript 设计模式(工厂方法模式)](https://github.com/antbaobao/AntBlog/issues/22)
