@@ -58,6 +58,7 @@
 * [手写代码-模拟new](https://github.com/antbaobao/AntBlog/issues/95)
 * [手写代码-实现一个call](https://github.com/antbaobao/AntBlog/issues/96)
 * [手写代码-实现一个apply](https://github.com/antbaobao/AntBlog/issues/97)
+* [手写代码-实现bind](https://github.com/antbaobao/AntBlog/issues/98)
 ### 设计模式
 * [javascript 设计模式(简单工厂模式)](https://github.com/antbaobao/AntBlog/issues/21)
 * [javascript 设计模式(工厂方法模式)](https://github.com/antbaobao/AntBlog/issues/22)
