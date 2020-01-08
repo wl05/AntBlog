@@ -24,7 +24,6 @@
 5. [javascript 中闭包的理解](https://github.com/antbaobao/AntBlog/issues/80)
 * [JavaScript Event Loop(浏览器）](https://github.com/antbaobao/AntBlog/issues/13)
 * [call,apply,bind的理解及应用](https://github.com/antbaobao/AntBlog/issues/15)
-* [函数柯里化](https://github.com/antbaobao/AntBlog/issues/16)
 * [arguments 参数理解](https://github.com/antbaobao/AntBlog/issues/17)
 * [Object.defineProperty() 方法详解](https://github.com/antbaobao/AntBlog/issues/18)
 * [Proxy详解](https://github.com/antbaobao/AntBlog/issues/19)
@@ -60,6 +59,7 @@
 * [手写代码-实现一个call](https://github.com/antbaobao/AntBlog/issues/96)
 * [手写代码-实现一个apply](https://github.com/antbaobao/AntBlog/issues/97)
 * [手写代码-实现bind](https://github.com/antbaobao/AntBlog/issues/98)
+* [手写代码-函数柯里化](https://github.com/antbaobao/AntBlog/issues/16)
 ### 设计模式
 * [javascript 设计模式(简单工厂模式)](https://github.com/antbaobao/AntBlog/issues/21)
 * [javascript 设计模式(工厂方法模式)](https://github.com/antbaobao/AntBlog/issues/22)
