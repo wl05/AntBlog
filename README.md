@@ -28,14 +28,11 @@
 * [arguments 参数理解](https://github.com/antbaobao/AntBlog/issues/17)
 * [Object.defineProperty() 方法详解](https://github.com/antbaobao/AntBlog/issues/18)
 * [Proxy详解](https://github.com/antbaobao/AntBlog/issues/19)
-### 其他
-* [浏览器的回流(重排)和重绘](https://github.com/antbaobao/AntBlog/issues/9)
 ## 前端进阶
 * [options 请求的原因以及避免方法](https://github.com/antbaobao/AntBlog/issues/84)
 * [cors 跨域](https://github.com/antbaobao/AntBlog/issues/83)
 * [DNS 预解析](https://github.com/antbaobao/AntBlog/issues/81)
 * [http缓存](https://github.com/antbaobao/AntBlog/issues/1)
-* [浏览器的渲染流程](https://github.com/antbaobao/AntBlog/issues/8)
 * [XSS 攻击](https://github.com/antbaobao/AntBlog/issues/82)
 * [常见web攻击手段极其防御方式](https://github.com/antbaobao/AntBlog/issues/2)
 * [从输入url到浏览器渲染全过程详解](https://github.com/antbaobao/AntBlog/issues/3)
@@ -49,6 +46,8 @@
 * [vue 做权限控制](https://github.com/antbaobao/AntBlog/issues/86)
 * [chrome devtool 使用](https://github.com/antbaobao/AntBlog/issues/87)
 * [cookie 详解](https://github.com/antbaobao/AntBlog/issues/92)
+* [浏览器-浏览器的渲染流程](https://github.com/antbaobao/AntBlog/issues/8)
+* [浏览器-浏览器的回流(重排)和重绘](https://github.com/antbaobao/AntBlog/issues/9)
 * [手写代码-实现防抖函数（debounce）](https://github.com/antbaobao/AntBlog/issues/88)
 * [手写代码-实现节流函数（throttle）](https://github.com/antbaobao/AntBlog/issues/89)
 * [手写代码-用 Throttle 来优化 Debounce](https://github.com/antbaobao/AntBlog/issues/90)
