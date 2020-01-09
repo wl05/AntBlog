@@ -36,7 +36,6 @@
 * [从输入url到浏览器渲染全过程详解](https://github.com/antbaobao/AntBlog/issues/3)
 * [TCP 三次握手和四次挥手](https://github.com/antbaobao/AntBlog/issues/4)
 * [HTTPS原理](https://github.com/antbaobao/AntBlog/issues/5)
-* [手写Promise](https://github.com/antbaobao/AntBlog/issues/29) => 待完成
 * [记一次从零到无的webpack的不完全实践](https://github.com/antbaobao/AntBlog/issues/49)
 * [关于vue-cli 3配置打包优化要点](https://github.com/antbaobao/AntBlog/issues/69)
 * [vue 源码解析](https://github.com/antbaobao/AntBlog/issues/85)
@@ -61,6 +60,7 @@
 * [手写代码-实现一个apply](https://github.com/antbaobao/AntBlog/issues/97)
 * [手写代码-实现bind](https://github.com/antbaobao/AntBlog/issues/98)
 * [手写代码-函数柯里化](https://github.com/antbaobao/AntBlog/issues/16)
+* [手写代码-Promise](https://github.com/antbaobao/AntBlog/issues/29)
 ### 设计模式
 * [javascript 设计模式(简单工厂模式)](https://github.com/antbaobao/AntBlog/issues/21)
 * [javascript 设计模式(工厂方法模式)](https://github.com/antbaobao/AntBlog/issues/22)
