@@ -22,9 +22,9 @@
 3. [javascript 中this的理解](https://github.com/antbaobao/AntBlog/issues/78)
 4. [ javascript 中作用域的理解](https://github.com/antbaobao/AntBlog/issues/79)
 5. [javascript 中闭包的理解](https://github.com/antbaobao/AntBlog/issues/80)
+6. [arguments 参数理解](https://github.com/antbaobao/AntBlog/issues/17)
 * [JavaScript Event Loop(浏览器）](https://github.com/antbaobao/AntBlog/issues/13)
 * [call,apply,bind的理解及应用](https://github.com/antbaobao/AntBlog/issues/15)
-* [arguments 参数理解](https://github.com/antbaobao/AntBlog/issues/17)
 * [Object.defineProperty() 方法详解](https://github.com/antbaobao/AntBlog/issues/18)
 * [Proxy详解](https://github.com/antbaobao/AntBlog/issues/19)
 ## 前端进阶
