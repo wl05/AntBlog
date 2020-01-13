@@ -47,6 +47,7 @@
 * [webpack-记一次从零到无的webpack的不完全实践](https://github.com/antbaobao/AntBlog/issues/49)
 * [webpack-关于vue-cli 3配置打包优化要点](https://github.com/antbaobao/AntBlog/issues/69)
 * [web安全-XSS 攻击](https://github.com/antbaobao/AntBlog/issues/82)
+* [web安全-csrf（跨站请求伪造）](https://github.com/antbaobao/AntBlog/issues/106)
 * [web安全-常见web攻击手段极其防御方式](https://github.com/antbaobao/AntBlog/issues/2)
 * [浏览器-浏览器的渲染流程](https://github.com/antbaobao/AntBlog/issues/8)
 * [浏览器-浏览器的回流(重排)和重绘](https://github.com/antbaobao/AntBlog/issues/9)
