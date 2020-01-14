@@ -87,6 +87,7 @@
 * [javascript 设计模式(职责链模式)](#) => 待完成
 * [javascript 设计模式(命令模式)](#) => 待完成
 ### Typescript
+* [Typescript 教程](https://github.com/antbaobao/AntBlog/issues/107)
 ## 后端相关
 * [使用docker部署网站](https://github.com/antbaobao/AntBlog/issues/20)
 * [Nginx性能优化功能- 开启Gzip压缩](https://github.com/antbaobao/AntBlog/issues/51)
