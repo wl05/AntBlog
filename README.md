@@ -72,15 +72,17 @@
 * [手写代码-Promise](https://github.com/antbaobao/AntBlog/issues/29)
 * [手写代码-模板引擎实现](https://github.com/antbaobao/AntBlog/issues/105)
 ### 设计模式
+* [javascript 设计模式(单例模式)](https://github.com/antbaobao/AntBlog/issues/32)
+* [javascript 设计模式(策略模式)](https://github.com/antbaobao/AntBlog/issues/45)
+* [javascript 设计模式(代理模式)](https://github.com/antbaobao/AntBlog/issues/114)
+
 * [javascript 设计模式(简单工厂模式)](https://github.com/antbaobao/AntBlog/issues/21)
 * [javascript 设计模式(工厂方法模式)](https://github.com/antbaobao/AntBlog/issues/22)
 * [javascript 设计模式(抽像工厂模式)](https://github.com/antbaobao/AntBlog/issues/23)
 * [javascript 设计模式(建造者模式)](https://github.com/antbaobao/AntBlog/issues/28)
 * [javascript 设计模式(原型模式)](https://github.com/antbaobao/AntBlog/issues/31)
-* [javascript 设计模式(单例模式)](https://github.com/antbaobao/AntBlog/issues/32)
 * [javascript 设计模式(外观模式)](https://github.com/antbaobao/AntBlog/issues/33)
 * [javascript 设计模式(适配器模式)](https://github.com/antbaobao/AntBlog/issues/34)
-* [javascript 设计模式(代理模式)](https://github.com/antbaobao/AntBlog/issues/114)
 * [javascript 设计模式(装饰者模式)](https://github.com/antbaobao/AntBlog/issues/35)
 * [javascript 设计模式(桥接模式)](https://github.com/antbaobao/AntBlog/issues/36)
 * [javascript 设计模式(组合模式)](#)  => 待完成
@@ -88,7 +90,7 @@
 * [javascript 设计模式(模版方法模式)](https://github.com/antbaobao/AntBlog/issues/40)
 * [javascript 设计模式(观察者模式)](https://github.com/antbaobao/AntBlog/issues/24)
 * [javascript 设计模式(状态模式)](https://github.com/antbaobao/AntBlog/issues/41)
-* [javascript 设计模式(策略模式)](https://github.com/antbaobao/AntBlog/issues/45)
+
 * [javascript 设计模式(职责链模式)](#) => 待完成
 * [javascript 设计模式(命令模式)](#) => 待完成
 ### Typescript
