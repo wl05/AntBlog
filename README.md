@@ -75,6 +75,7 @@
 * [javascript 设计模式(单例模式)](https://github.com/antbaobao/AntBlog/issues/32)
 * [javascript 设计模式(策略模式)](https://github.com/antbaobao/AntBlog/issues/45)
 * [javascript 设计模式(代理模式)](https://github.com/antbaobao/AntBlog/issues/114)
+* [javascript 设计模式(迭代器模式)](https://github.com/antbaobao/AntBlog/issues/115)
 
 * [javascript 设计模式(简单工厂模式)](https://github.com/antbaobao/AntBlog/issues/21)
 * [javascript 设计模式(工厂方法模式)](https://github.com/antbaobao/AntBlog/issues/22)
