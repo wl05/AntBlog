@@ -77,6 +77,7 @@
 * [javascript 设计模式(代理模式)](https://github.com/antbaobao/AntBlog/issues/114)
 * [javascript 设计模式(迭代器模式)](https://github.com/antbaobao/AntBlog/issues/115)
 * [javascript 设计模式(观察者模式)](https://github.com/antbaobao/AntBlog/issues/24)
+* [javascript 设计模式(命令模式)](https://github.com/antbaobao/AntBlog/issues/116)
 
 * [javascript 设计模式(简单工厂模式)](https://github.com/antbaobao/AntBlog/issues/21)
 * [javascript 设计模式(工厂方法模式)](https://github.com/antbaobao/AntBlog/issues/22)
@@ -94,7 +95,7 @@
 * [javascript 设计模式(状态模式)](https://github.com/antbaobao/AntBlog/issues/41)
 
 * [javascript 设计模式(职责链模式)](#) => 待完成
-* [javascript 设计模式(命令模式)](#) => 待完成
+
 ### Typescript
 * [Typescript 教程](https://github.com/antbaobao/AntBlog/issues/107)
 ## 后端相关
