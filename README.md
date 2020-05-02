@@ -81,6 +81,7 @@
 * [javascript 设计模式(组合模式)](https://github.com/antbaobao/AntBlog/issues/117)
 * [javascript 设计模式(模版方法模式)](https://github.com/antbaobao/AntBlog/issues/40)
 * [javascript 设计模式(享元模式)](https://github.com/antbaobao/AntBlog/issues/118)
+* [javascript 设计模式(职责链模式)](https://github.com/antbaobao/AntBlog/issues/119)
 
 * [javascript 设计模式(简单工厂模式)](https://github.com/antbaobao/AntBlog/issues/21)
 * [javascript 设计模式(工厂方法模式)](https://github.com/antbaobao/AntBlog/issues/22)
@@ -96,7 +97,6 @@
 
 * [javascript 设计模式(状态模式)](https://github.com/antbaobao/AntBlog/issues/41)
 
-* [javascript 设计模式(职责链模式)](#) => 待完成
 
 ### Typescript
 * [Typescript 教程](https://github.com/antbaobao/AntBlog/issues/107)
