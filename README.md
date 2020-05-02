@@ -82,6 +82,7 @@
 * [javascript 设计模式(模版方法模式)](https://github.com/antbaobao/AntBlog/issues/40)
 * [javascript 设计模式(享元模式)](https://github.com/antbaobao/AntBlog/issues/118)
 * [javascript 设计模式(职责链模式)](https://github.com/antbaobao/AntBlog/issues/119)
+* [javascript 设计模式(中介者模式)](https://github.com/antbaobao/AntBlog/issues/120)
 
 * [javascript 设计模式(简单工厂模式)](https://github.com/antbaobao/AntBlog/issues/21)
 * [javascript 设计模式(工厂方法模式)](https://github.com/antbaobao/AntBlog/issues/22)
