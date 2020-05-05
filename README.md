@@ -84,6 +84,7 @@
 * [javascript 设计模式(职责链模式)](https://github.com/antbaobao/AntBlog/issues/119)
 * [javascript 设计模式(中介者模式)](https://github.com/antbaobao/AntBlog/issues/120)
 * [javascript 设计模式(装饰者模式)](https://github.com/antbaobao/AntBlog/issues/35)
+* [javascript 设计模式(状态模式)](https://github.com/antbaobao/AntBlog/issues/41)
 
 * [javascript 设计模式(简单工厂模式)](https://github.com/antbaobao/AntBlog/issues/21)
 * [javascript 设计模式(工厂方法模式)](https://github.com/antbaobao/AntBlog/issues/22)
@@ -93,10 +94,6 @@
 * [javascript 设计模式(外观模式)](https://github.com/antbaobao/AntBlog/issues/33)
 * [javascript 设计模式(适配器模式)](https://github.com/antbaobao/AntBlog/issues/34)
 * [javascript 设计模式(桥接模式)](https://github.com/antbaobao/AntBlog/issues/36)
-
-
-
-* [javascript 设计模式(状态模式)](https://github.com/antbaobao/AntBlog/issues/41)
 
 
 ### Typescript
